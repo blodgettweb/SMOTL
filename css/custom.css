@@ -236,9 +236,9 @@ footer a:hover {
 
 @media (max-width:575.98px){.table-responsive-sm{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}.table-responsive-sm>.table-bordered{border:0}
 .navbar-brand {
-    background-image: url("../img/logo.png");
-    height: 100px;
-    width: 325px;
+    background-image: url("../img/logoSmall.png");
+    height: 85px;
+    width: 200px;
     background-repeat: no-repeat;
     margin-right: 0px !important;
     margin-left: 0;
@@ -250,6 +250,20 @@ footer a:hover {
 	}
 	
 	
+	
+	
+}
+@media (max-width:991.98px){
+	
+	.navbar-brand {
+    background-image: url("../img/logoSmall.png");
+    height: 85px;
+    width: 200px;
+    background-repeat: no-repeat;
+    margin-right: 0px !important;
+    margin-left: 0;
+    margin-bottom: 0;
+}
 	
 	
 }
